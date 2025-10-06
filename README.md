@@ -205,18 +205,18 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-<img width="899" height="583" alt="Screenshot 2025-09-01 152055" src="https://github.com/user-attachments/assets/70d76b6b-2441-42c1-9b8e-0a13f4fb2d57" />
+<img width="810" height="564" alt="image" src="https://github.com/user-attachments/assets/032b15cb-6963-4860-9fd8-c839fa252b83" />
 
 
 
 
-<img width="809" height="567" alt="Screenshot 2025-09-01 152116" src="https://github.com/user-attachments/assets/2d8fdfa2-c35c-4ecf-aab9-55a5839ac5cb" />
 
+<img width="806" height="565" alt="image" src="https://github.com/user-attachments/assets/5bad98e8-46dd-4e20-9154-fd44ac70392f" />
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- <img width="805" height="562" alt="image" src="https://github.com/user-attachments/assets/d63d6263-9a7e-4b35-a8d7-5d5306501991" />
+ <img width="776" height="538" alt="image" src="https://github.com/user-attachments/assets/6eb293ff-038f-4993-9cb9-d76d48ae1566" />
 
  
  
